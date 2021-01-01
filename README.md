@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, Nodejs, Expressjs, MongoDB, Firebase and React Native**
 
-- 👯 I’m looking to collaborate on **with with other passionate developers**
+- 👯 I’m looking to collaborate on **with other passionate developers**
 
 - 🥅 2021 Goals: **Master React Native, Complete MERN Stack.**
 
