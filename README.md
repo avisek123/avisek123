@@ -1,6 +1,6 @@
 
-<h2>Hi 👋, I'm Avisek </h2>
-<h3 >I'm a developer, who love to code!</h3>
+<h2 align='center'>Hi 👋, I'm Avisek <br/>I'm a developer, who love to code! </h2>
+<h3 align='center' ></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20views&color=0e75b6&style=flat" alt="avisek123" /> </p>
