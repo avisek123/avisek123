@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Avisek</h1>
+<div>
+<h1 align="center">Hi 👋, I'm Avisek </h1>
 <h3 align="center">I'm a developer, who love to code!</h3>
+ </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20views&color=0e75b6&style=flat" alt="avisek123" /> </p>
 
