@@ -56,7 +56,7 @@
        
             
    <a href="https://www.mongodb.com/" target="_blank"> 
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" 
+     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" 
             alt="mongodb" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank">
                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" 
                    height="40"  margin='15px'/> </a>  <a href="https://reactnative.dev/" target="_blank"> 
