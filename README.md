@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/sahooavisek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahooavisek" height="30" width="40" /></a>
 <a href="https://codesandbox.com/avisek123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="avisek123" height="30" width="40" /></a>
-           <a href="https://dev.to/sahooavisek" target="blank"><img align="center" src="https://dev.to/" alt="avisek123" height="30" width="40" /></a>
+           <a href="https://dev.to/sahooavisek" target="blank"><img align="center" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" alt="avisek123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
