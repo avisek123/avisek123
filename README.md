@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20views&color=0e75b6&style=flat" alt="avisek123" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB, Firebase and Flutter**
+- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB and Flutter**
 
 - 👯 I’m looking to collaborate on **with other passionate developers**
 
