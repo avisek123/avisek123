@@ -1,5 +1,5 @@
 
-<h2 align='center'>Hi there 👋, I'm Avisek <br/> <br/>I'm a software developer, who love to code! and passionate about new technologies </h2>
+<h2 align='center'>Hi there 👋, I'm Avisek <br/> <br/>I'm a software developer, who love to code! & passionate about new technologies </h2>
 
 
 
