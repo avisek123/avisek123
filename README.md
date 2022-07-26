@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20views&color=0e75b6&style=flat" alt="avisek123" /> </p>
 
-- 🌱 I’m currently learning **React, JavaScript, Nodejs, Expressjs, MongoDB, Firebase and React Native , Flutter**
+- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB, Firebase and Flutter**
 
 - 👯 I’m looking to collaborate on **with other passionate developers**
 
-- 🥅 2022 Goals: **Master React Native & Flutter.**
+- 🥅 2022 Goals: **Master Flutter & Node Js.**
 
 - 📫 How to reach me **mrperfectavi89@gmail.com**
 
