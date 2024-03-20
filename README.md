@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20views&color=0e75b6&style=flat" alt="avisek123" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB and Kotlin**
+- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
 
 - 👯 I’m looking to collaborate on **with other passionate developers**
 
-- 🥅 2023 Goals: **Master in Node Js.**
+- 🥅 2024 Goals: **Master in Node Js.**
 
 - 📫 How to reach me **mrperfectavi89@gmail.com**
 
