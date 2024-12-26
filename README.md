@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **with other passionate developers**
 
-- 🥅 2024 Goals: **Master in Node Js.**
+- 🥅 2025 Goals: **Master in Node Js.**
 
 - 📫 How to reach me **mrperfectavi89@gmail.com**
 
