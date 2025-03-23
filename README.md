@@ -67,3 +67,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisek123&show_icons=true&locale=en&layout=compact" alt="avisek123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avisek123&show_icons=true&locale=en" alt="avisek123" /></p>
+
+![WhatsApp Image 2024-09-19 at 7 49 24 PM (1)](https://github.com/user-attachments/assets/19d32f4b-0fb1-42e1-81b4-f717536e83f4)
+
