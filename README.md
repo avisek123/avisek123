@@ -1,72 +1,103 @@
+<div align="center">
 
-<h2 align='center'>Hi there 👋, I'm Avisek <br/> <br/>I'm a software developer, who love to code & passionate about new technologies. </h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D46A4A,100:F6E2DB&height=200&section=header&text=Hi,%20I'm%20Avisek%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20·%20React%20Native&descAlignY=55&descSize=18" width="100%"/>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20views&color=0e75b6&style=flat" alt="avisek123" /> </p>
-
-- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
-
-- 👯 I’m looking to collaborate on **with other passionate developers**
-
-- 🥅 2025 Goals: **Master in Node Js.**
-
-- 📫 How to reach me **mrperfectavi89@gmail.com**
-
-- ⚡ Fun fact **I love to travel new place on my free time and hang out with my friends.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahooavisek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahooavisek" height="30" width="40" /></a>
-<a href="https://codesandbox.com/avisek123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="avisek123" height="30" width="40" /></a>
-           <a href="https://dev.to/sahooavisek" target="blank"><img align="center" src="https://avatars2.githubusercontent.com/u/13521919?s=200&v=4" alt="avisek123" height="30" width="40" /></a>
-            <a href="https://medium.com/me/stories/public" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/923954?s=200&v=4" alt="avisek123" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-           <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" target="_blank">
-           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
-           alt="html5" width="40" height="40" margin='15px'/> </a>
-<a href="https://www.w3.org/html/" target="_blank">
-           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
-           alt="html5" width="40" height="40" margin='15px'/> </a>
-           <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-     width="40" height="40"  margin='15px'/> </a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"  margin='15px'/> 
-
+<a href="https://github.com/avisek123">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=D46A4A&center=true&vCenter=true&width=600&lines=Building+offline-first+mobile+apps;Shipping+on-device+AI+with+Vaani;React+Native+%7C+Expo+%7C+Clean+Architecture;Turning+ideas+into+production+apps" alt="Typing SVG" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
-            alt="javascript" width="40" height="40"  margin='15px'/> </a> 
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40"  margin='15px' height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank">
-                      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" 
-                      alt="react" width="40" height="40"  margin='15px'/> </a>
-                       <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" 
-        alt="express" width="40" height="40"  margin='15px'/> </a> 
-        <a href="https://nodejs.org" target="_blank">
-               <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-                alt="nodejs" width="40" height="40"  margin='15px'/> </a>
-        <a href="https://firebase.google.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"  margin='15px'/> 
-        </a> <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"  margin='15px'/> </a> 
-       
-            
-   <a href="https://www.mongodb.com/" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" 
-            alt="mongodb" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank">
-                   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" 
-                   height="40"  margin='15px'/> </a>  <a href="https://reactnative.dev/" target="_blank"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"  margin='15px'/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisek123&show_icons=true&locale=en&layout=compact" alt="avisek123" /></p>
+<img src="https://komarev.com/ghpvc/?username=avisek123&label=Profile%20Views&color=D46A4A&style=for-the-badge" alt="profile views" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avisek123&show_icons=true&locale=en" alt="avisek123" /></p>
+</div>
 
-![WhatsApp Image 2024-09-19 at 7 49 24 PM (1)](https://github.com/user-attachments/assets/19d32f4b-0fb1-42e1-81b4-f717536e83f4)
+<br/>
 
+### 🚀 About Me
+
+- 💼 **Senior Software Engineer** specializing in React Native
+- 🧠 Solo-building **Vaani** — a privacy-first, fully offline AI chat app for Android, running LLM inference entirely on-device
+- 🏗️ Focused on Clean Architecture, mobile performance engineering, and CI/CD
+- 📈 Recent wins: cut AI response latency from **1–2 min → 15–25 sec**, resolved **8 production RAM issues**, shipped OTA pipelines with runtime fingerprinting
+- 📫 **mrperfectavi89@gmail.com**
+
+<br/>
+
+### 🎯 Featured Project
+
+<div align="center">
+<table>
+<tr>
+<td width="600">
+
+**🔮 Vaani** — Offline, privacy-first AI chat for Android.
+No servers. No data collection. 100% on-device inference.
+
+<img src="https://img.shields.io/badge/Expo%20SDK%2056-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/llama.rn-D46A4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=flat-square"/>
+<img src="https://img.shields.io/badge/Reanimated-FF4154?style=flat-square"/>
+
+- 🎙️ Offline voice input & TTS, with streaming buffered responses
+- 🎨 Custom "breathing orb" animation (Reanimated + SVG)
+- 📦 arm64-v8a optimized build, EAS ↔ local parity via config plugins
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,firebase,git,vscode,androidstudio&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS%20Build-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=avisek123&show_icons=true&hide_border=true&title_color=D46A4A&icon_color=D46A4A&text_color=333333&bg_color=00000000&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avisek123&hide_border=true&background=00000000&ring=D46A4A&fire=D46A4A&currStreakLabel=D46A4A" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek123&layout=compact&hide_border=true&title_color=D46A4A&text_color=333333&bg_color=00000000" height="165"/>
+
+</div>
+
+<br/>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=avisek123&theme=flat&no-frame=true&row=1&column=6&title_color=D46A4A&icon_color=D46A4A" />
+</div>
+
+<br/>
+
+### 🌐 Connect
+
+<div align="center">
+
+<a href="https://twitter.com/sahooavisek" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://dev.to/sahooavisek" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="mailto:mrperfectavi89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D46A4A,100:F6E2DB&height=100&section=footer" width="100%"/>
