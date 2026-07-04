@@ -1,8 +1,8 @@
 <div align="center">
 
-# Avisek
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2b1710&height=180&section=header&text=Avisek&fontSize=52&fontColor=FF7A59&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20-%20React%20Native&descAlignY=58&descSize=16&descColor=E8A184" alt="header" />
 
-**Senior Software Engineer** · React Native
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=FF7A59&center=true&vCenter=true&width=560&lines=building+offline-first+mobile+apps;shipping+on-device+AI+with+Vaani;react+native+%2F+expo+%2F+clean+architecture" alt="typing" />
 
 </div>
 
@@ -27,7 +27,7 @@ mrperfectavi89@gmail.com
 
 <br/>
 
-## Featured — Vaani
+### 🔮 featured — Vaani
 
 Offline, privacy-first AI chat for Android. No servers, no data collection — inference runs entirely on-device.
 
@@ -39,15 +39,30 @@ Offline, privacy-first AI chat for Android. No servers, no data collection — i
 
 <br/>
 
-## Stack
+### stack
 
-`React Native` `TypeScript` `JavaScript` `Node.js` `Express` `MongoDB` `Firebase` `Git`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,firebase,git,vscode,androidstudio&theme=dark" />
+</div>
 
 <br/>
 
-## Elsewhere
+### stats
 
-[Twitter](https://twitter.com/sahooavisek) · [dev.to](https://dev.to/sahooavisek) · [Email](mailto:mrperfectavi89@gmail.com)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avisek123&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&title_color=FF7A59&icon_color=FF7A59&text_color=c9d1d9&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek123&layout=compact&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&title_color=FF7A59&text_color=c9d1d9" height="150"/>
+</div>
+
+<br/>
+
+### connect
+
+<div align="center">
+<a href="https://twitter.com/sahooavisek" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=twitter&logoColor=FF7A59"/></a>
+<a href="https://dev.to/sahooavisek" target="_blank"><img src="https://img.shields.io/badge/-dev.to-000000?style=flat-square&logo=devdotto&logoColor=FF7A59"/></a>
+<a href="mailto:mrperfectavi89@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=FF7A59"/></a>
+</div>
 
 <br/>
 
