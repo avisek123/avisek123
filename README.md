@@ -72,4 +72,8 @@ Offline, privacy-first AI chat for Android. No servers, no data collection — i
 
 </div>
 
+<br/>
+
+![WhatsApp Image 2024-09-19 at 7 49 24 PM (1)](https://github.com/user-attachments/assets/19d32f4b-0fb1-42e1-81b4-f717536e83f4)
+
 </div>
