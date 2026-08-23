@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2b1710&height=180&section=header&text=Avisek&fontSize=52&fontColor=FF7A59&animation=fadeIn&fontAlignY=38&desc=Senior%20Mobile%20App%20Developer%20%7C%20AI%20%26%20React%20Native&descAlignY=58&descSize=16&descColor=E8A184" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,100:2b1710&amp;height=180&amp;section=header&amp;text=Avisek&amp;fontSize=52&amp;fontColor=FF7A59&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Mobile%20App%20Developer%20%7C%20AI%20%26%20React%20Native&amp;descAlignY=58&amp;descSize=16&amp;descColor=E8A184" alt="header" width="100%" />
 </div>
 
 <h3 align="center">Building High-Performance, Intelligent Mobile Experiences</h3>
@@ -83,7 +83,7 @@ Here are the tools and technologies I use to bring ideas to life:
 ## 🔮 Featured Project: Vaani
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/19d32f4b-0fb1-42e1-81b4-f717536e83f4" alt="Vaani Preview" width="600" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
+  <img src="https://play-lh.googleusercontent.com/7MoayL3utKLYkohL0aKR2pA0uc4Y3NRCeRBDS8W3veyTwUbRLtyd-Vi-9hYzGLlcPr-jlPtuYcmTEj8Hv29I=w832-h470-rw" alt="Vaani Preview" width="600" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
 </div>
 
 <br/>
@@ -102,16 +102,21 @@ Here are the tools and technologies I use to bring ideas to life:
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avisek123&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&title_color=FF7A59&icon_color=FF7A59&text_color=c9d1d9&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek123&layout=compact&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&title_color=FF7A59&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avisek123&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=FF7A59&amp;icon_color=FF7A59&amp;text_color=c9d1d9&amp;count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek123&amp;layout=compact&amp;hide_border=true&amp;hide_title=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=FF7A59&amp;text_color=c9d1d9" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=FF7A59&center=true&vCenter=true&width=600&lines=Building+offline-first+mobile+apps;Shipping+on-device+AI+with+Vaani;React+Native+%2F+Expo+%2F+Clean+Architecture" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=FF7A59&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+offline-first+mobile+apps;Shipping+on-device+AI+with+Vaani;React+Native+%2F+Expo+%2F+Clean+Architecture" alt="typing" />
 </div>
 
 <!-- Terminal SVG animation -->
 <div align="center">
-    <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzYwIiBoZWlnaHQ9IjQxMCIgdmlld0JveD0iMCAwIDc2MCA0MTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwYTBhMGYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMWEwZjBhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iNzYwIiBoZWlnaHQ9IjQxMCIgcng9IjE0IiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxyZWN0IHdpZHRoPSI3NjAiIGhlaWdodD0iNDAiIHJ4PSIxNCIgZmlsbD0iIzE0MTAwZCIvPgogIDxyZWN0IHk9IjI2IiB3aWR0aD0iNzYwIiBoZWlnaHQ9IjE0IiBmaWxsPSIjMTQxMDBkIi8+CgogIDxjaXJjbGUgY3g9IjI2IiBjeT0iMjAiIHI9IjYiIGZpbGw9IiNmZjVmNTYiLz4KICA8Y2lyY2xlIGN4PSI0NiIgY3k9IjIwIiByPSI2IiBmaWxsPSIjZmZiZDJlIi8+CiAgPGNpcmNsZSBjeD0iNjYiIGN5PSIyMCIgcj0iNiIgZmlsbD0iIzI3YzkzZiIvPgogIDx0ZXh0IHg9IjM4MCIgeT0iMjUiIGZvbnQtZmFtaWx5PSJNZW5sbywgQ29uc29sYXMsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzhhN2Q3NCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+YXZpc2VrIOKAlCB6c2g8L3RleHQ+CgogIDxnIGZvbnQtZmFtaWx5PSJNZW5sbywgQ29uc29sYXMsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNSI+CiAgICA8dGV4dCB4PSIyOCIgeT0iNzgiIGZpbGw9IiNGRjdBNTkiIGZpbHRlcj0idXJsKCNnbG93KSI+JCB3aG9hbWk8L3RleHQ+CiAgICA8dGV4dCB4PSIyOCIgeT0iMTAyIiBmaWxsPSIjZTZlZGYzIj5BdmlzZWsg4oCUIFNlbmlvciBNb2JpbGUgQXBwIERldmVsb3BlciwgQUkgJmFtcDsgUmVhY3QgTmF0aXZlPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjI4IiB5PSIxNDIiIGZpbGw9IiNGRjdBNTkiIGZpbHRlcj0idXJsKCNnbG93KSI+JCBjdXJyZW50bHlfYnVpbGRpbmc8L3RleHQ+CiAgICA8dGV4dCB4PSIyOCIgeT0iMTY2IiBmaWxsPSIjZTZlZGYzIj5WYWFuaSDihpIgcHJpdmFjeS1maXJzdCwgZnVsbHkgb2ZmbGluZSBBSSBjaGF0IGFwcCBmb3IgQW5kcm9pZDwvdGV4dD4KICAgIDx0ZXh0IHg9IjI4IiB5PSIxOTAiIGZpbGw9IiNlNmVkZjMiPjEwMCUgb24tZGV2aWNlIExMTSBpbmZlcmVuY2UuIE5vIHNlcnZlcnMuIE5vIGRhdGEgY29sbGVjdGlvbi48L3RleHQ+CgogICAgPHRleHQgeD0iMjgiIHk9IjIzMCIgZmlsbD0iI0ZGN0E1OSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4kIHJlY2VudF93aW5zPC90ZXh0PgogICAgPHRleHQgeD0iMjgiIHk9IjI1NCIgZmlsbD0iIzdlZTc4NyI+4pyTIGN1dCBBSSByZXNwb25zZSBsYXRlbmN5OiAxLTJtaW4g4oaSIDE1LTI1czwvdGV4dD4KICAgIDx0ZXh0IHg9IjI4IiB5PSIyNzgiIGZpbGw9IiM3ZWU3ODciPuKckyByZXNvbHZlZCA4IHByb2R1Y3Rpb24gUkFNL21lbW9yeSBpc3N1ZXM8L3RleHQ+CiAgICA8dGV4dCB4PSIyOCIgeT0iMzAyIiBmaWxsPSIjN2VlNzg3Ij7inJMgc2hpcHBlZCBPVEEgcGlwZWxpbmVzIHdpdGggcnVudGltZSBmaW5nZXJwcmludGluZzwvdGV4dD4KCiAgICA8dGV4dCB4PSIyOCIgeT0iMzQyIiBmaWxsPSIjRkY3QTU5IiBmaWx0ZXI9InVybCgjZ2xvdykiPiQgY29udGFjdDwvdGV4dD4KICAgIDx0ZXh0IHg9IjI4IiB5IzM2NiIgZmlsbD0iI2U2ZWRmMyI+bXJwZXJmZWN0YXZpODlAZ21haWwuY29tPC90ZXh0PgogIDwvZz4KPC9zdmc+" alt="terminal summary" width="700" />
+    <img src="./terminal.svg" alt="terminal summary" width="700" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/62586380/425801897-19d32f4b-0fb1-42e1-81b4-f717536e83f4.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODc0OTU5NjAsIm5iZiI6MTc4NzQ5NTY2MCwicGF0aCI6Ii82MjU4NjM4MC80MjU4MDE4OTctMTlkMzJmNGItMGZiMS00MmUxLTgxYjQtZjcxNzUzNmU4M2Y0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyM1QxNDM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDFkZTdkZTJhNjQwNGQ5MmFlZGE5MDY2NDZiYzc1MmMyNTAyNTNkNjRjOTZjMzcwZGQ3MWJhMGYxY2U2M2QzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.UYRzCATHVa2inCjPrTtufH8VXlEb5sZQs3tHBbxU4i0" alt="App UI" width="300" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
 </div>
