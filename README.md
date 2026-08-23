@@ -99,7 +99,7 @@ Here are the tools and technologies I use to bring ideas to life:
 
 ---
 
-## 💻 Profile
+
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/62586380/425801897-19d32f4b-0fb1-42e1-81b4-f717536e83f4.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODc0OTU5NjAsIm5iZiI6MTc4NzQ5NTY2MCwicGF0aCI6Ii82MjU4NjM4MC80MjU4MDE4OTctMTlkMzJmNGItMGZiMS00MmUxLTgxYjQtZjcxNzUzNmU4M2Y0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyM1QxNDM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDFkZTdkZTJhNjQwNGQ5MmFlZGE5MDY2NDZiYzc1MmMyNTAyNTNkNjRjOTZjMzcwZGQ3MWJhMGYxY2U2M2QzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.UYRzCATHVa2inCjPrTtufH8VXlEb5sZQs3tHBbxU4i0" alt="Tech Stack Profile" width="700" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
