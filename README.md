@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,100:2b1710&amp;height=180&amp;section=header&amp;text=Avisek&amp;fontSize=52&amp;fontColor=FF7A59&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Mobile%20App%20Developer%20%7C%20AI%20%26%20React%20Native&amp;descAlignY=58&amp;descSize=16&amp;descColor=E8A184" alt="header" width="100%" />
+  <img src="https://github.com/prscX/prscX/raw/main/background.png" alt="header" width="100%" />
 </div>
 
 <h3 align="center">Building High-Performance, Intelligent Mobile Experiences</h3>
@@ -116,58 +116,7 @@ Here are the tools and technologies I use to bring ideas to life:
     <img src="./terminal.svg" alt="terminal summary" width="700" />
 </div>
 
-
-
-
-<img width="760" height="410" alt="terminal" src="https://github.com/user-attachments/assets/09a83ab9-875b-42c8-8540-34197bdb452a" />
-<svg width="760" height="410" viewBox="0 0 760 410" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0a0f"/>
-      <stop offset="100%" stop-color="#1a0f0a"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="760" height="410" rx="14" fill="url(#bg)"/>
-  <rect width="760" height="40" rx="14" fill="#14100d"/>
-  <rect y="26" width="760" height="14" fill="#14100d"/>
-
-  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="20" r="6" fill="#27c93f"/>
-  <text x="380" y="25" font-family="Menlo, Consolas, monospace" font-size="12" fill="#8a7d74" text-anchor="middle">avisek — zsh</text>
-
-  <g font-family="Menlo, Consolas, monospace" font-size="15">
-    <text x="28" y="78" fill="#FF7A59" filter="url(#glow)">$ whoami</text>
-    <text x="28" y="102" fill="#e6edf3">Avisek — Senior Mobile App Developer, AI &amp; React Native</text>
-
-    <text x="28" y="142" fill="#FF7A59" filter="url(#glow)">$ currently_building</text>
-    <text x="28" y="166" fill="#e6edf3">Vaani → privacy-first, fully offline AI chat app for Android</text>
-    <text x="28" y="190" fill="#e6edf3">100% on-device LLM inference. No servers. No data collection.</text>
-
-    <text x="28" y="230" fill="#FF7A59" filter="url(#glow)">$ recent_wins</text>
-    <text x="28" y="254" fill="#7ee787">✓ cut AI response latency: 1-2min → 15-25s</text>
-    <text x="28" y="278" fill="#7ee787">✓ resolved 8 production RAM/memory issues</text>
-    <text x="28" y="302" fill="#7ee787">✓ shipped OTA pipelines with runtime fingerprinting</text>
-
-    <text x="28" y="342" fill="#FF7A59" filter="url(#glow)">$ contact</text>
-    <text x="28" y="366" fill="#e6edf3">mrperfectavi89@gmail.com</text>
-  </g>
-</svg>
-
-
 <br/>
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/62586380/425801897-19d32f4b-0fb1-42e1-81b4-f717536e83f4.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODc0OTU5NjAsIm5iZiI6MTc4NzQ5NTY2MCwicGF0aCI6Ii82MjU4NjM4MC80MjU4MDE4OTctMTlkMzJmNGItMGZiMS00MmUxLTgxYjQtZjcxNzUzNmU4M2Y0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyM1QxNDM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDFkZTdkZTJhNjQwNGQ5MmFlZGE5MDY2NDZiYzc1MmMyNTAyNTNkNjRjOTZjMzcwZGQ3MWJhMGYxY2U2M2QzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.UYRzCATHVa2inCjPrTtufH8VXlEb5sZQs3tHBbxU4i0" alt="App UI" width="300" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
 </div>
-
-
-
-
