@@ -97,26 +97,8 @@ Here are the tools and technologies I use to bring ideas to life:
   - ✨ **Custom Animations:** Micro-animations (e.g., dynamic "breathing orb") built with Reanimated & SVG.
   - ⚙️ **Seamless Parity:** EAS ↔ Local build parity via custom Expo config plugins.
 
----
+--
 
-## 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avisek123&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=FF7A59&amp;icon_color=FF7A59&amp;text_color=c9d1d9&amp;count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisek123&amp;layout=compact&amp;hide_border=true&amp;hide_title=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=FF7A59&amp;text_color=c9d1d9" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=FF7A59&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+offline-first+mobile+apps;Shipping+on-device+AI+with+Vaani;React+Native+%2F+Expo+%2F+Clean+Architecture" alt="typing" />
-</div>
-
-<!-- Terminal SVG animation -->
-<div align="center">
-    <img src="./terminal.svg" alt="terminal summary" width="700" />
-</div>
-
-<br/>
-<div align="center">
   <img src="https://private-user-images.githubusercontent.com/62586380/425801897-19d32f4b-0fb1-42e1-81b4-f717536e83f4.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODc0OTU5NjAsIm5iZiI6MTc4NzQ5NTY2MCwicGF0aCI6Ii82MjU4NjM4MC80MjU4MDE4OTctMTlkMzJmNGItMGZiMS00MmUxLTgxYjQtZjcxNzUzNmU4M2Y0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyM1QxNDM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDFkZTdkZTJhNjQwNGQ5MmFlZGE5MDY2NDZiYzc1MmMyNTAyNTNkNjRjOTZjMzcwZGQ3MWJhMGYxY2U2M2QzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.UYRzCATHVa2inCjPrTtufH8VXlEb5sZQs3tHBbxU4i0" alt="App UI" width="300" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);" />
 </div>
